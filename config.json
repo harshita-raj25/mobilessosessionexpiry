@@ -82,8 +82,8 @@
     ],
     "capabilities": {
         "deepLink": {
-            "value": "",
-            "enabled": false,
+            "value": "mobilessosessionexpiry",
+            "enabled": true,
             "android": {
                 "webLinks": [
                     {
